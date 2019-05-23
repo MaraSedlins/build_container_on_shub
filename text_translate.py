@@ -2,7 +2,7 @@ from translate import Translator
 
 #Enter languages and string to translate
 input_language="English"
-output_language="German"
+output_language="French"
 translate_string="Good Morning!"
 
 #Now translate
